@@ -149,7 +149,7 @@ def main():
 	k=3
 	PicTitle=""
 	for s in sys.argv:
-		if s!= 'KR_A2_2cat.py':
+		if s!= 'KR_A2.py':
 			PicTitle+='_'+s
 		
 			if s[:3]=='reg':
